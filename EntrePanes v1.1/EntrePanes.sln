@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{16C10FAC-3AE9-E614-BFD3-5319C02A794F}") = "EntrePanes", "Assembly-CSharp.csproj", "{1301304E-F084-0131-43C6-B4BCD96F38CF}"
+EndProject
+Project("{16C10FAC-3AE9-E614-BFD3-5319C02A794F}") = "EntrePanes", "Assembly-CSharp-Editor.csproj", "{BFC14FE1-23FF-61BB-333E-F2EACB2909B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1301304E-F084-0131-43C6-B4BCD96F38CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1301304E-F084-0131-43C6-B4BCD96F38CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1301304E-F084-0131-43C6-B4BCD96F38CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1301304E-F084-0131-43C6-B4BCD96F38CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFC14FE1-23FF-61BB-333E-F2EACB2909B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC14FE1-23FF-61BB-333E-F2EACB2909B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC14FE1-23FF-61BB-333E-F2EACB2909B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC14FE1-23FF-61BB-333E-F2EACB2909B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
