@@ -15,7 +15,7 @@ public class PanActions : MonoBehaviour {
     BodyFrameReader bodyFrameReader;
     Body[] bodies = null;
     #endregion
-
+    int sebagay=8;
     #region Objetos Fisicos
     static GameObject pan;
     #endregion
@@ -42,6 +42,7 @@ public class PanActions : MonoBehaviour {
     }
 
     void Update() {
+        Debug.Log(sebagay);
         switch (InputSelection.input)
         {
             #region Teclado
